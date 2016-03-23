@@ -1,4 +1,4 @@
-PDB ID,SNP ID,WILDTYPE PDB ID,Surface,Loop,Alpha helix,Beta sheet,Buried,Alpha helix,Beta sheet,Loop,No structural consequence found,Common,Rare,No_Freq,Disease,Risk,Enzyme Activity,Aggregates,Stability,Binding/Dissociation,Assembly,Rearrangement,No Functional consequence found,Reference
+PDB ID,SNP ID,WILDTYPE PDB ID,Surface,Surface-Loop,Surface-Alpha helix,Surface-Beta sheet,Buried,Buried-Alpha helix,Buried-Beta sheet,Buried-Loop,No structural consequence found,Common,Rare,No_Freq,Disease,Risk,Enzyme Activity,Aggregates,Stability,Binding/Dissociation,Assembly,Rearrangement,No Functional consequence found,Reference
 1RN7,rs1799841,,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,
 1RY0,rs12529,,1,1,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,1,PMID: 18632753
 1S5O,rs3118635,,1,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,
