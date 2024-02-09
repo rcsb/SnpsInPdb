@@ -1,6 +1,6 @@
 # SnpsInPdb
 
-This project contains supplemental  material for a manuscript that is under review. The dataset contained in the manuscript is available through the file [dataset.csv](dataset.csv).
+This project contains supplemental  material for [Bhattacharya et al, 2017](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0171355). The dataset contained in the manuscript is available through the file [dataset.csv](dataset.csv).
 
 ## Documentation
 
